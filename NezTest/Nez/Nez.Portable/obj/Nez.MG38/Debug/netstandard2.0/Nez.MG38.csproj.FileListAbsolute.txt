@@ -1,0 +1,11 @@
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\obj\Nez.MG38\Debug\netstandard2.0\Nez.MG38.csproj.AssemblyReference.cache
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\obj\Nez.MG38\Debug\netstandard2.0\Nez.MG38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\obj\Nez.MG38\Debug\netstandard2.0\Nez.MG38.AssemblyInfoInputs.cache
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\obj\Nez.MG38\Debug\netstandard2.0\Nez.MG38.AssemblyInfo.cs
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\obj\Nez.MG38\Debug\netstandard2.0\Nez.MG38.csproj.CoreCompileInputs.cache
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\obj\Nez.MG38\Debug\netstandard2.0\Nez.MG38.sourcelink.json
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\bin\Debug\netstandard2.0\Nez.deps.json
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\bin\Debug\netstandard2.0\Nez.dll
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\bin\Debug\netstandard2.0\Nez.pdb
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\obj\Nez.MG38\Debug\netstandard2.0\Nez.dll
+C:\Users\nickc\Desktop\Dev\NewNezAgain\Nez\Nez.portable\obj\Nez.MG38\Debug\netstandard2.0\Nez.pdb
